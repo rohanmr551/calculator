@@ -1,0 +1,31 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+
+}
+h1:hover{
+    color:gray;
+}
+#btn1{
+     background-color: #04AA6D;
+  border: thick;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px; 
+}
+#btn1:hover{
+    background-color:gray;
+    color: white;
+}
+#in1{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
